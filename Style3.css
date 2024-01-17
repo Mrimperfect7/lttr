@@ -107,7 +107,7 @@ body {
   animation: untoldcoding 0.8s linear infinite;
 }
 
-@keyframes untoldcoding {
+@keyframes  {
   0% {
     transform: rotate(-45deg) scale(1.05);
   }
